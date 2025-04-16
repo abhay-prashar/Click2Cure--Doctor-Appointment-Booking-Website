@@ -20,7 +20,7 @@ Click2Cure is a user-friendly doctor appointment booking web application designe
 ## 🛠️ Tech Stack
 
 **Frontend:**
-- HTML, CSS, JavaScript
+- React.js
 - Bootstrap (for responsive design)
 
 **Backend:**
@@ -47,7 +47,7 @@ Click2Cure is a user-friendly doctor appointment booking web application designe
 
 ```
 Click2Cure--Doctor-Appointment-Booking-Website/
-├── public/              # Static files (CSS, JS, images)
+├── public/              # Static files
 ├── routes/              # Route definitions
 ├── views/               # EJS templates
 ├── models/              # MongoDB schemas
@@ -85,7 +85,7 @@ node app.js
 
 5. Open your browser and go to:
 ```
-http://localhost:3000
+http://localhost:5100
 ```
 
 ---
